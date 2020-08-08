@@ -1,2 +1,2 @@
 # AIOS
-focus on building the future a  artificial intelligence operating system
+focus on building the future artificial intelligence operating system
